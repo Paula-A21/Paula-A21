@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Paula Arce</h1>
 <h3 align="center">Una programadora en crecimiento continuo</h3>
 
-- 🌱 I’m currently learning **JavaScript, HTML**
+- 🌱 I’m currently learning **JavaScript and HTML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Paula-A21](https://github.com/Paula-A21)
 
