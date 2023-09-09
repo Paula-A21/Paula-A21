@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I am Paula Arce</h1>
 <h3 align="center">I have two years of experience in customer service as a cashier</h3>
-
+<p></p>
 <p>I am a person who is always looking for challenges, I like to grow both professionally and personally, whenever I can learn something new I am there. During the pandemic I was looking for a new field that I felt passionate about and I found it. Since then I started training in the programming area.</p>
 
 <p>As part of my training in web development I have developed competencies in: UX/UI, HTML, CSS, Sass, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum.</p>
