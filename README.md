@@ -13,7 +13,7 @@ I also developed my leadership skills in the position of Teaching Assistant (TA)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paula-arce-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paula-arce-" height="30" width="40" /></a>
- <a href="mailto:arcepaula-work@hotmail.com"><img src="https://img.freepik.com/vector-gratis/sobre-email-abierto_1020-530.jpg" alt="Hotmail" width="32" height="32" /></a>
+ <a href="mailto:arcepaula-work@hotmail.com"><img align="center" src="https://img.freepik.com/vector-gratis/sobre-email-abierto_1020-530.jpg" alt="Hotmail" width="32" height="32" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
