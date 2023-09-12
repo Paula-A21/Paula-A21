@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I am Paula Arce</h1>
+ <h1 align="center">Hello 👋, I am Paula Arce</h1>
 <h3 align="center">I have two years of experience in customer service as a cashier</h3>
 <p></p>
 <p>I am a person who is always looking for challenges, I like to grow both professionally and personally, whenever I can learn something new I am there. During the pandemic I was looking for a new field that I felt passionate about and I found it. Since then I started training in the programming area.</p>
@@ -27,8 +27,9 @@ I also developed my leadership skills in the position of Teaching Assistant (TA)
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40"/> </a>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="40" height="40"/> </a>
  </a>
 </p>
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
