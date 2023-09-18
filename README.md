@@ -1,5 +1,5 @@
  <h1 align="center">Hello 👋, I am Paula Arce</h1>
-<h3 align="center">I have two years of experience in customer service as a cashier</h3>
+<h3 align="center">I am a Full Stack Web Developer. I have two years of experience in customer service as a cashier</h3>
 <p></p>
 <p>I am a person who is always looking for challenges, I like to grow both professionally and personally, whenever I can learn something new I am there. During the pandemic I was looking for a new field that I felt passionate about and I found it. Since then I started training in the programming area.</p>
 
