@@ -1,20 +1,42 @@
- <h1 align="center">Hello 👋, I am Paula Arce</h1>
-<h3 align="center">I am a Full Stack Web Developer. I have two years of experience in customer service as a cashier</h3>
-<p></p>
-<p>I am a person who is always looking for challenges, I like to grow both professionally and personally, whenever I can learn something new I am there. During the pandemic I was looking for a new field that I felt passionate about and I found it. Since then I started training in the programming area.</p>
+<h1 align="center">Hello! 👋 I'm Paula Arce</h1>
+<h3 align="center">Full Stack Web Developer with a primary focus on the backend</h3>
 
-<p>As part of my training in web development I have developed competencies in: UX/UI, HTML, CSS, Sass, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum.</p>
+<p>I'm a person who is always seeking challenges. I enjoy personal and professional growth, and I'm always eager to learn something new. During the pandemic, I was searching for a new field that I felt passionate about, and I found it in software development. Since then, I've been honing my programming skills.</p>
 
-My main focus is in the backend area. Since I was a girl I have loved puzzles, and working in this sector is where I came across with the biggest puzzles, and I love solving them. I am someone who prioritizes functionality and efficiency before everything.
+<p>Since I was a child, I've loved puzzles, and working in this sector has exposed me to some of the biggest puzzles, which I love solving. I prioritize functionality and efficiency in everything I do. Currently, I'm working on projects that help me advance in my programming journey.</p>
 
-I believe that my customer service experience has given me a strong ability to deal with stressful environments, gaining a lot of patience and wisdom in both dealing with customers and keeping a problematic situation under control.
-I also developed my leadership skills in the position of Teaching Assistant (TA) for students at Henry Bootcamp, where I had to coordinate a group of new joining students throughout the whole bootcamp experience.
+<p>I believe that my customer service experience has equipped me with a strong ability to handle stressful environments, fostering patience and wisdom in dealing with customers and managing challenging situations. I've also developed leadership skills as a Teaching Assistant (TA) for students at Henry Bootcamp, where I coordinated a group of new students throughout the entire bootcamp experience.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/paula-arce-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paula-arce-" height="30" width="40" /></a>
- <a href="mailto:arcepaula-work@hotmail.com"><img align="center" src="https://img.freepik.com/vector-gratis/sobre-email-abierto_1020-530.jpg" alt="Hotmail" width="32" height="32" /></a>
+  <a href="https://linkedin.com/in/paula-arce-" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:arcepaula-work@hotmail.com">
+    <img align="center" src="https://img.freepik.com/vector-gratis/sobre-email-abierto_1020-530.jpg" alt="Email" width="32" height="32" />
+  </a>
 </p>
+
+<p>As part of my web development training, I've developed competencies in:</p>
+
+- JavaScript
+- HTML
+- CSS
+- Git
+- Node.js
+- Express
+- React
+- Redux
+- SQL
+- Sequelize
+- Scrum
+- Tailwind CSS
+- Agile Methodologies
+- PostgreSQL
+- Trello
+- Figma
+- Testing
+- Java
 
 <h3 align="left">Languages and Tools:</h3>
 
