@@ -1,14 +1,22 @@
 <h1 align="center">Hello! 👋 I'm Paula Arce</h1>
 <h3 align="center">Full Stack Web Developer with a primary focus on the backend</h3>
 
-<p>I'm a person who is always seeking challenges. I enjoy personal and professional growth, and I'm always eager to learn something new. During the pandemic, I was searching for a new field that I felt passionate about, and I found it in software development. Since then, I've been honing my programming skills.</p>
+<p>Hi! I'm Paula, a Full Stack Developer with a focus on Back End, and I love solving problems through code.</p>
 
-<p>Since I was a child, I've loved puzzles, and working in this sector has exposed me to some of the biggest puzzles, which I love solving. I prioritize functionality and efficiency in everything I do. Currently, I'm working on projects that help me advance in my programming journey.</p>
+<p>I've always been fascinated by puzzles and riddles, and when I discovered programming, I knew it was the perfect path for me. Every challenge in software development is a new opportunity to apply logic, creativity, and optimization.</p>
 
-<p>I believe that my customer service experience has equipped me with a strong ability to handle stressful environments, fostering patience and wisdom in dealing with customers and managing challenging situations. I've also developed leadership skills as a Teaching Assistant (TA) for students at Henry Bootcamp, where I coordinated a group of new students throughout the entire bootcamp experience.</p>
+<p>Currently, I work as a Full Stack Developer at Scalemote - Bigger, where I develop scalable applications using Hexagonal Architecture, SOLID principles, and REST API.</p>
 
 <p>As part of my web development training, I've developed competencies in:</p>
 
+- AWS
+- TypeScript
+- NestJS
+- MySQL
+- TypeORM
+- Cypress
+- Jest
+- Supertest
 - JavaScript
 - HTML
 - CSS
@@ -24,8 +32,6 @@
 - PostgreSQL
 - Trello
 - Figma
-- Testing
-- Java
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
