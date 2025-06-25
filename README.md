@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Paula Arce</h1>
-<h3 align="center">Full Stack Web Developer with a primary focus on the backend</h3>
+<h3 align="center">Full Stack Developer with a primary focus on the backend</h3>
 
 <p>Hi! I'm Paula, a Full Stack Developer with a focus on Back End, and I love solving problems through code.</p>
 
