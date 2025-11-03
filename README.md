@@ -5,33 +5,7 @@
 
 <p>I've always been fascinated by puzzles and riddles, and when I discovered programming, I knew it was the perfect path for me. Every challenge in software development is a new opportunity to apply logic, creativity, and optimization.</p>
 
-<p>Currently, I work as a Full Stack Developer at Scalemote - Bigger, where I develop scalable applications using Hexagonal Architecture, SOLID principles, and REST API.</p>
-
-<p>As part of my web development training, I've developed competencies in:</p>
-
-- AWS
-- TypeScript
-- NestJS
-- MySQL
-- TypeORM
-- Cypress
-- Jest
-- Supertest
-- JavaScript
-- HTML
-- CSS
-- Git
-- Node.js
-- Express
-- React
-- Redux
-- Sequelize
-- Scrum
-- Tailwind CSS
-- Agile Methodologies
-- PostgreSQL
-- Trello
-- Figma
+<p>Currently, I work as a Full Stack Developer at Effit.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
