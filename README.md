@@ -32,3 +32,6 @@ Collaborating with teams through code reviews and Agile workflows.
 
 Continuously learning and improving my backend development skills, exploring new technologies and best practices.
 
+📫 Let's connect!
+
+LinkedIn: https://www.linkedin.com/in/paula-arce-/
